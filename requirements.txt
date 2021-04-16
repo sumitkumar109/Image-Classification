@@ -4,5 +4,5 @@ gevent
 h5py
 numpy
 Pillow
-tensorflow==2.4.0
+tensorflow
 Werkzeug
